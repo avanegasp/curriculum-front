@@ -10,20 +10,20 @@
 ## The Internet!
 
 - cuales son los verbos HTTP?
-- Que es una direccion IP Maria
+- Que es una direccion IP
 - que demonios es un puerto
 
 ## CSS and HTML!
 
-- Herencia en CSS Maria
+- Herencia en CSS
 - Atributo `data` en HTML Maria
 - Box-Model en CSS
-- Especificidad en CSS
+- Especificidad en CSS angie
 
 ## JS basics!
 
-- function foo() {} vs var foo = function() {} 
-- == vs === Maria
+- function foo() {} vs var foo = function() {}
+- == vs ===
 - scope de variables
 - debugger
 
@@ -37,7 +37,7 @@
 ## JavaScript under the hood.
 
 - Hoisting
-- .call() y .apply() Maria
+- .call() y .apply()
 - .bind()
 - event delegation
 
