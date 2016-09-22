@@ -2,28 +2,28 @@
 
 ##  Git!
 
-- git add -p (por que es Increible)
-- que hace que un pull request sea bueno?
+- git add -p (por que es Increible) Angie
+- que hace que un pull request sea bueno? Angie
 - git clone vs fork vs por que hacer cualquiera de ellos? 
 - Git head Maria
 
 ## The Internet!
 
 - cuales son los verbos HTTP?
-- Que es una direccion IP Maria
+- Que es una direccion IP
 - que demonios es un puerto
 
 ## CSS and HTML!
 
-- Herencia en CSS Maria
+- Herencia en CSS
 - Atributo `data` en HTML Maria
 - Box-Model en CSS
 - Especificidad en CSS
 
 ## JS basics!
 
-- function foo() {} vs var foo = function() {} 
-- == vs === Maria
+- function foo() {} vs var foo = function() {}
+- == vs ===
 - scope de variables
 - debugger
 
